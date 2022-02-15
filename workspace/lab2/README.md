@@ -2,8 +2,8 @@
 
 ## Summary of Your Result
 
-- Your Name: 
-- Your Kaggle ID: 
+- Your Name: Andrew Feldman
+- Your Kaggle ID: 9674784
 - Your Model's Kaggle Score: `%`
 - Your Model's Energy (should match the result in `network-profile.ipynb`): `mJ`
 - Your Model's Number of Cycles (should match the result in `network-profile.ipynb`): `M Cycles`
