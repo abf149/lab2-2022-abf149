@@ -4,9 +4,9 @@
 
 - Your Name: Andrew Feldman
 - Your Kaggle ID: 9674784
-- Your Model's Kaggle Score: `78.33%`
-- Your Model's Energy (should match the result in `network-profile.ipynb`): `0.45815967 mJ`
-- Your Model's Number of Cycles (should match the result in `network-profile.ipynb`): `0.06159200 Cycles`
+- Your Model's Kaggle Score: `81.64%`
+- Your Model's Energy (should match the result in `network-profile.ipynb`): `0.49993034 mJ`
+- Your Model's Number of Cycles (should match the result in `network-profile.ipynb`): `0.06274400 Cycles`
 - Your Model's Peak Activation Size (should match the result in `network-profile.ipynb`): `131072 Bytes`
 
 ## TODO
